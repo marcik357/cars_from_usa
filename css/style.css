@@ -31,7 +31,7 @@ a {
 }
 
 .header {
-    background: url(/images/header-bg.jpg) top center / cover no-repeat;
+    background: url(../images/header-bg.jpg) top center / cover no-repeat;
     min-height: 700px;
     color: var(--color-white);
 }
